@@ -1,5 +1,5 @@
 # AutoLC
-[ICPR 2022]  [AutoLC: Search Lightweight and Top-Performing Architecture for Remote Sensing Image Land-Cover Classification](https://ieeexplore.ieee.org/document/9956372) . Including the implementation of AutoDeepLab, Deeplab, Deeplabv3, Deeplabv3+, U-net, FCN, PSPNet on LoveDA, Cityscapes and Floodnet data set.
+[ICPR 2022]  [AutoLC: Search Lightweight and Top-Performing Architecture for Remote Sensing Image Land-Cover Classification](https://ieeexplore.ieee.org/document/9956372). Including implementations of AutoDeepLab, Deeplab, Deeplabv3, Deeplabv3+, U-Net, FCN, PSPNet on LoveDA, Cityscapes and Floodnet data sets.
 
 ## File description
 
