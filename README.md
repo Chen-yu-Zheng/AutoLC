@@ -57,10 +57,6 @@ bash scripts/retrain.sh
 bash scripts/test.sh
 ```
 
-## Result models
-
-We provided models after search and retrain [[baidu drive (passwd: xm9z)]](https://pan.baidu.com/s/1gt8wnMhqfNOsEVg0gdaWMw) [[google drive]]()
-
 ## Requirements
 
 * Pytorch
